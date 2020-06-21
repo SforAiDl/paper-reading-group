@@ -14,15 +14,15 @@
 
 ### Schematic representation of the GPipe’s approach:
 
-![assets/gpipe_summary.png](assets/gpipe_summary.png)
+![assets/gpipe_summary.PNG](assets/gpipe_summary.PNG)
 
 ### Schematic representation of the PipeDream approach:
 
-![assets/pipedream_summary.png](assets/pipedream_summary.png)
+![assets/pipedream_summary.PNG](assets/pipedream_summary.PNG)
 
 ### Schematic representation explaining model parallelism with pipeline parallel assignment of workers:
 
-![assets/model_parallelism.png](assets/model_parallelism.png)
+![assets/model_parallelism.PNG](assets/model_parallelism.PNG)
 
 ## Relevant notes:
 
