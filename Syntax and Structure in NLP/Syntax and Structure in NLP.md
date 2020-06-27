@@ -38,7 +38,7 @@ But the most commonly used NLP models are still sequential in nature!
 2. It needs to be inspected if Recurrent NNs can learn knowledge which is hierarchical in nature (like the syntax dependencies in natural language)
 3. [(Linzen et al. 2016, TACL)](https://transacl.org/ojs/index.php/tacl/article/view/972) was one of the earliest thorough work which inspected the ability of Recurrent NNs to capture such syntax-sensitive dependencies.
 
-(##Assessing-the-Ability-of-LSTMs-to-Learn-Syntax-Sensitive-Dependencies-(Tal-Linzen,-Emmanuel-Dupoux,-Yoav-Goldberg)
+## Assessing the Ability of LSTMs to Learn Syntax Sensitive Dependencies (Tal Linzen, Emmanuel Dupoux, Yoav Goldberg)
 
 ---
 
