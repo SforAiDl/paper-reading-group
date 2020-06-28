@@ -65,7 +65,7 @@ Some Examples :-
     1. $o_v = g(x_v, h_v)$
 3. Compute losses and train
     1. $\sum_{i=1}^{p} criterion(t_i, o_i)$
-    2. Note: Not an average, but a **sum**. 
+    2. Note: Not an sum, but a **average**. 
 4. Generate embeddings
 
     ![Graph%20Neural%20Networks%2065e8b918487d47f9b54b48d11207c8c8/Screenshot_2020-06-28_at_5.09.38_PM.png](Graph%20Neural%20Networks%2065e8b918487d47f9b54b48d11207c8c8/Screenshot_2020-06-28_at_5.09.38_PM.png)
