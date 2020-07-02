@@ -48,7 +48,7 @@
 
 ### Multi-Agent RL:
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled.png)
 
 - Types of MARL:
     - Centralized vs Decentralized
@@ -71,7 +71,7 @@
 
 ## Reinforced Inter-Agent Learning (RIAL):
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%201.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%201.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%201.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%201.png)
 
 - Simplest implementation for the communication protocol: Add DRQN with Independent Q-learning
 - Have two separate Q-networks for each agent $Q^a_u$ and $Q^a_m$for both the environment actions and the community actions
@@ -91,7 +91,7 @@
 
 ## Differential Inter-Agent Learning:
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%202.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%202.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%202.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%202.png)
 
 - Motivation: If Centralised learning is allowed, why stop at just sending the communication action, instead send the gradients learnt through training directly
 - Feedback is important when we consider communication. How does agent 1 know that its messages are appropriate?
@@ -115,7 +115,7 @@
 
 ## Architecture:
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%203.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%203.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%203.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%203.png)
 
 - Both architectures are the same for Q-net and C-net
 - $z^a_t =$  MLP$(o^a_t)$ + MLP($m_{t-1}^a)$ + Lookup$(u^a_{t-1})$ + Lookup$(a)$
@@ -140,13 +140,13 @@
 
 - Compared with a no-communication, shared parameters baseline
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%204.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%204.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%204.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%204.png)
 
 ## MNIST Games:
 
 ### Multi-step MNIST:
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%205.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%205.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%205.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%205.png)
 
 - $u^a_t \in \{0, 1, 2, ..., 8, 9\}$
 - $m^a_t = \{0, 1\}$ for decentralised execution and $= (0, 1)$ for centralised learning (in case of DIAL)
@@ -154,7 +154,7 @@
 
 ### Colour-Digit MNIST:
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%206.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%206.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%206.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%206.png)
 
 - Slightly more complicated than the previous one. Agents have to play two games.
 - Either learn colour or learn parity (odd/even). Parity earns 2x rewards
@@ -163,13 +163,13 @@
 
 ### Results:
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%207.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%207.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%207.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%207.png)
 
 ## Noise in Communication:
 
 - Added noise to communication channel in DRU
 
-![Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%208.png](Reading%20Notes%201537d40c1a194434b62e6aab2ced4ecf/Untitled%208.png)
+![https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%208.png](https://github.com/SforAiDl/paper-reading-group/blob/master/Learning%20to%20Communicate%20with%20Deep%20Multi-Agent%20Reinforcement%20Learning/assets/Untitled%208.png)
 
 ## Further Research Areas:
 
