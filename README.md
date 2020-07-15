@@ -12,3 +12,4 @@ Notes for papers presented during our paper reading sessions
 7. [Designing and Interpreting Probes with Control Tasks (John Hewitt & Percy Liang)](./Syntax and Structure in NLP/Syntax and Structure in NLP.md#designing-and-interpreting-probes-with-control-tasks-john-hewitt--percy-liang)
 8. [What Does BERT Learn about the Structure of Language? (Ganesh Jawahar, Benoît Sagot, Djamé Seddah)](./Syntax and Structure in NLP/Syntax and Structure in NLP.md#what-does-bert-learn-about-the-structure-of-language-ganesh-jawahar-beno%C3%AEt-sagot-djam%C3%A9-seddah)
 9. [GNN](./GNN-1/Graph Neural Networks 65e8b918487d47f9b54b48d11207c8c8.md)
+10. [Universal Adversarial Triggers](./UAT/Adversarial-Machine-Learning.md)
