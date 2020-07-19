@@ -13,3 +13,4 @@ Notes for papers presented during our paper reading sessions
 8. [What Does BERT Learn about the Structure of Language? (Ganesh Jawahar, Benoît Sagot, Djamé Seddah)](./Syntax and Structure in NLP/Syntax and Structure in NLP.md#what-does-bert-learn-about-the-structure-of-language-ganesh-jawahar-beno%C3%AEt-sagot-djam%C3%A9-seddah)
 9. [GNN](./GNN-1/Graph Neural Networks 65e8b918487d47f9b54b48d11207c8c8.md)
 10. [Universal Adversarial Triggers](./UAT/Adversarial-Machine-Learning.md)
+11. [Confidence-Aware Learning for Deep Neural Networks (CRL)](https://github.com/SforAiDl/paper-reading-group/blob/master/Confidence-Aware%20Learning/Confidence%20Aware%20Learning%20for%20Deep%20Neural%20Networks%205080dd3c7bff4d6bbd44632448b1de31.md)
