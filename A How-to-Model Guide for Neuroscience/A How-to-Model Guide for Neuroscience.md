@@ -1,6 +1,8 @@
 # A How-to-Model Guide for Neuroscience
-Link: [https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019)
+Link: [https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019)  
 Authors: Gunnar Blohm, Konrad Kording, Paul Schrater
+
+---
 
 This paper talks about a step-by-step process of how-to-model in Neuroscience, but I feel this can be applied to other fields too.
 
@@ -79,8 +81,7 @@ Example of "Why" -
 - What would be your inputs and outputs?
 - Create a library of potential explanatory mechanisms - Such a library is usually collected over time by hands-on exploration of different models, approaches, pieces of math, and algorithms
 
-### Step 4: formulating specific, mathematically defined
-hypotheses
+### Step 4: formulating specific, mathematically defined hypotheses
 
 - We need to map our intuitions and proposals about mechanisms and variables into precise mathematical language
 - The more precise the hypotheses, the better the modeling approach can be justified
