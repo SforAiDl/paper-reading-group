@@ -16,3 +16,4 @@ Notes for papers presented during our paper reading sessions
 11. [Confidence-Aware Learning for Deep Neural Networks (CRL)](https://github.com/SforAiDl/paper-reading-group/blob/master/Confidence-Aware%20Learning/Confidence%20Aware%20Learning%20for%20Deep%20Neural%20Networks%205080dd3c7bff4d6bbd44632448b1de31.md)
 12. [A How-to-Model Guide for Neuroscience](https://github.com/SforAiDl/paper-reading-group/blob/master/A%20How-to-Model%20Guide%20for%20Neuroscience/A%20How-to-Model%20Guide%20for%20Neuroscience.md)
 13. [Neural ODEs](./Neural_ODEs/Neural_ODEs.md)
+14. [Model based Reinforcement Learning](./MBRL/Model Based Reinforcement Learning 7b98a25f0aa8434ca36d783dbbf60ec1.md)
