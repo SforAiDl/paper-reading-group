@@ -18,6 +18,8 @@
     4. Operations Research (energy)
 
     And many more
+    
+![equation](https://latex.codecogs.com/gif.latex?%28S%2C%20A%2C%20f%2C%20r%29%20%5C%5C%20where%5C%20S%5C%20is%5C%20the%5C%20State%5C%20Space%5C%5C%20A%5C%20is%5C%20the%5C%20Action%5C%20Space%5C%5C%20T%5C%20%3A%5C%20S%5C%20%5Ctimes%20A%5C%20%5Crightarrow%20%5C%20S%5C%20is%5C%20a%5C%20deterministic%5C%20state%5C%20transition%5C%20function%5C%5C%20r%20%3A%20S%20%5Crightarrow%20%5CR%5C%20is%5C%20the%5C%20reward%5C%20function%5C%5C%20%5Cgamma%5C%20%5Cepsilon%5C%20%280%2C1%29%5C%5C%20Policy%5C%20%5Cpi%5C%20%3A%5C%20S%5C%20%5Crightarrow%5C%20A)
 
 # Problem Statement
 
