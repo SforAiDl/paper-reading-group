@@ -17,4 +17,5 @@ Notes for papers presented during our paper reading sessions
 12. [A How-to-Model Guide for Neuroscience](https://github.com/SforAiDl/paper-reading-group/blob/master/A%20How-to-Model%20Guide%20for%20Neuroscience/A%20How-to-Model%20Guide%20for%20Neuroscience.md)
 13. [Neural ODEs](./Neural_ODEs/Neural_ODEs.md)
 14. [Model based Reinforcement Learning](./MBRL/Model Based Reinforcement Learning 7b98a25f0aa8434ca36d783dbbf60ec1.md)
-14. [Learning to describe scenes with programs](./Scenes with Programs/LEARNING TO DESCRIBE SCENES WITH PROGRAMS.md)
+15. [Learning to describe scenes with programs](./Scenes with Programs/LEARNING TO DESCRIBE SCENES WITH PROGRAMS.md)
+16. [DeepSynth: Automata Synthesis for Automatic Task Segmentation in RL](./Automata Synthesis for RL/DeepSynth Automata Synthesis for Automatic Task Se 956bdaa7e08c423aa97f319b469790d3.md)
