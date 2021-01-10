@@ -19,4 +19,4 @@ Notes for papers presented during our paper reading sessions
 14. [Model based Reinforcement Learning](./MBRL/Model Based Reinforcement Learning 7b98a25f0aa8434ca36d783dbbf60ec1.md)
 15. [Learning to describe scenes with programs](./Scenes with Programs/LEARNING TO DESCRIBE SCENES WITH PROGRAMS.md)
 16. [DeepSynth: Automata Synthesis for Automatic Task Segmentation in RL](./Automata Synthesis for RL/DeepSynth Automata Synthesis for Automatic Task Se 956bdaa7e08c423aa97f319b469790d3.md)
-17. [Model free conventions in MARL with Heterogeneous Preferences](./Model free conventions in MARL with Heterogeneous Preferences.md)
+17. [Model free conventions in MARL with Heterogeneous Preferences](https://github.com/SforAiDl/paper-reading-group/blob/master/Model%20free%20conventions%20in%20MARL%20with%20Heterogeneous%20Preferences/Model%20free%20conventions%20in%20MARL%20with%20Heterogeneous%20Preferences.md)
