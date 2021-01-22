@@ -1,9 +1,8 @@
 # Accelerating Reinforcement Learning with Learned Skill Priors (SPiRL)
 
-Authors: Karl Pertsch, Youngwoon Lee, Joseph J. Lim
-Code: https://github.com/clvrai/spirl
-Created: Dec 26, 2020 11:53 AM
-Website: https://clvrai.github.io/spirl/
+Authors: Karl Pertsch, Youngwoon Lee, Joseph J. Lim  
+Code: https://github.com/clvrai/spirl  
+Website: https://clvrai.github.io/spirl/  
 
 ## Motivation
 
@@ -34,7 +33,7 @@ Leveraging skills embeddings from large offline datasets and learning a prior ov
 
      
 
-                                    $a_i = \{{a_t}^i, {a_{t+1}}^i, ....., {a_{t+H-1}}^i\}$
+                                    $a_i = [{a_t}^i, {a_{t+1}}^i, ....., {a_{t+H-1}}^i]$
 
 - Learning the skill embedding space $Z$ by learning the model $p(a_i|z)$ by maximizing the ELBO :
 
