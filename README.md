@@ -21,3 +21,4 @@ Notes for papers presented during our paper reading sessions
 16. [DeepSynth: Automata Synthesis for Automatic Task Segmentation in RL](./Automata Synthesis for RL/DeepSynth Automata Synthesis for Automatic Task Se 956bdaa7e08c423aa97f319b469790d3.md)
 17. [Model free conventions in MARL with Heterogeneous Preferences](./Model free conventions in MARL with Heterogeneous Preferences/Model free conventions in MARL with Heterogeneous Preferences.md)
 18. [Accelerating Reinforcement Learning with Learned Skill Priors](./Accelerating Reinforcement Learning with Learned Skill Priors/Accelerating Reinforcement Learning with Learned S 55f74821b841411e9b7695dd6cab9440.md)
+19. [Progressive Domain Adaptation for Object Detection](./Progressive Domain Adaptation for Object Detection/Progressive Domain Adaptation for Object Detection 478798eacb8b477e92629c95ae306a49.md)
