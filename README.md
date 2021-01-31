@@ -22,3 +22,4 @@ Notes for papers presented during our paper reading sessions
 17. [Model free conventions in MARL with Heterogeneous Preferences](./Model free conventions in MARL with Heterogeneous Preferences/Model free conventions in MARL with Heterogeneous Preferences.md)
 18. [Accelerating Reinforcement Learning with Learned Skill Priors](./Accelerating Reinforcement Learning with Learned Skill Priors/Accelerating Reinforcement Learning with Learned S 55f74821b841411e9b7695dd6cab9440.md)
 19. [Progressive Domain Adaptation for Object Detection](./Progressive Domain Adaptation for Object Detection/Progressive Domain Adaptation for Object Detection 478798eacb8b477e92629c95ae306a49.md)
+20. [Convolutional Networks with Adaptive inference Graphs](./Convolutional Networks with Adaptive Inference Graph/Convolutional Networks with Adaptive Inference Gra 5c731fbfed5b4f93b6b49bc30f331d18.md)
