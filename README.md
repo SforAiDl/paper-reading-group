@@ -1,25 +1,47 @@
-# Paper Reading Group
+<!-- # Paper Reading Group -->
 
-Notes for papers presented during our paper reading sessions
+Notes for papers presented during our paper reading sessions.
 
 ## Papers:
-1. [MOPO: Model-based Offline Policy Optimization](./MOPO/MOPO Model based Offline Policy Optimization.md)
-2. [DETR: End-to-End Object Detection with Transformers](./DETR/DETR: End-to-End Object Detection with Transformers.md)
-3. [Efficient Adaptation for End-to-End Vision-Based Robotic Manipulation](./Efficient adaptation for end to end Vision Based Robotic Manipulation/Efficient adaption for end to end Vision Based Robotic Manipulation.md)
-4. [PipeDream: Generalized Pipeline Parallelism for DNN Training](./PipeDream/PipeDream.md)
-5. [Lottery Ticket Hypothesis](./LTH/Lottery Ticket Hypothesis 72c1972c2b9547a1be108c45c99d9774.md)
-6. [Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies (Tal Linzen, Emmanuel Dupoux, Yoav Goldberg)](./Syntax and Structure in NLP/Syntax and Structure in NLP.md#assessing-the-ability-of-lstms-to-learn-syntax-sensitive-dependencies-tal-linzen-emmanuel-dupoux-yoav-goldberg)
-7. [Designing and Interpreting Probes with Control Tasks (John Hewitt & Percy Liang)](./Syntax and Structure in NLP/Syntax and Structure in NLP.md#designing-and-interpreting-probes-with-control-tasks-john-hewitt--percy-liang)
-8. [What Does BERT Learn about the Structure of Language? (Ganesh Jawahar, Benoît Sagot, Djamé Seddah)](./Syntax and Structure in NLP/Syntax and Structure in NLP.md#what-does-bert-learn-about-the-structure-of-language-ganesh-jawahar-beno%C3%AEt-sagot-djam%C3%A9-seddah)
-9. [GNN](./GNN-1/Graph Neural Networks 65e8b918487d47f9b54b48d11207c8c8.md)
-10. [Universal Adversarial Triggers](./UAT/Adversarial-Machine-Learning.md)
-11. [Confidence-Aware Learning for Deep Neural Networks (CRL)](./Confidence-Aware Learning/Confidence Aware Learning for Deep Neural Networks 5080dd3c7bff4d6bbd44632448b1de31.md)
-12. [A How-to-Model Guide for Neuroscience](./A How-to-Model Guide for Neuroscience/A How-to-Model Guide for Neuroscience.md)
-13. [Neural ODEs](./Neural_ODEs/Neural_ODEs.md)
-14. [Model based Reinforcement Learning](./MBRL/Model Based Reinforcement Learning 7b98a25f0aa8434ca36d783dbbf60ec1.md)
-15. [Learning to describe scenes with programs](./Scenes with Programs/LEARNING TO DESCRIBE SCENES WITH PROGRAMS.md)
-16. [DeepSynth: Automata Synthesis for Automatic Task Segmentation in RL](./Automata Synthesis for RL/DeepSynth Automata Synthesis for Automatic Task Se 956bdaa7e08c423aa97f319b469790d3.md)
-17. [Model free conventions in MARL with Heterogeneous Preferences](./Model free conventions in MARL with Heterogeneous Preferences/Model free conventions in MARL with Heterogeneous Preferences.md)
-18. [Accelerating Reinforcement Learning with Learned Skill Priors](./Accelerating Reinforcement Learning with Learned Skill Priors/Accelerating Reinforcement Learning with Learned S 55f74821b841411e9b7695dd6cab9440.md)
-19. [Progressive Domain Adaptation for Object Detection](./Progressive Domain Adaptation for Object Detection/Progressive Domain Adaptation for Object Detection 478798eacb8b477e92629c95ae306a49.md)
-20. [Convolutional Networks with Adaptive inference Graphs](./Convolutional Networks with Adaptive Inference Graph/Convolutional Networks with Adaptive Inference Gra 5c731fbfed5b4f93b6b49bc30f331d18.md)
+1. Vision Transformers Need Registers [[paper](https://arxiv.org/abs/2309.16588)]
+2. Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.11239)]
+3. Mitigating Memorisation in Diffusion Models [[paper](https://arxiv.org/pdf/2407.21720)]
+4. Interpreting CLIP's Image Representation via Text-Based Decomposition [[paper](https://arxiv.org/pdf/2310.05916)]
+5. Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion [[paper](https://arxiv.org/pdf/2308.12469)]
+6. Do Transformers Really Perform Bad for Graph Representation? (Graphormer) [[paper](https://arxiv.org/pdf/2106.05234)]
+7. Rank and Contrast [[paper](https://openreview.net/pdf?id=WHedsAeatp)]
+8. EGRU [[paper](https://arxiv.org/pdf/2206.06178)]
+9. Deep Bidirectional Language-Knowledge Graph Pretraining (DRAGON) [[paper](https://arxiv.org/pdf/2210.09338)]
+10. Resurrecting Recurrent Neural Networks for Long Sequences (LRU) [[paper](https://arxiv.org/pdf/2303.06349)]
+11. Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models [[paper](https://arxiv.org/pdf/2402.19427)]
+12. Linguistic Binding in Diffusion Models [[paper](https://openreview.net/pdf?id=AOKU4nRw1W)]
+13. Evolutionary Optimization of Model Merging Recipes [[paper](https://arxiv.org/pdf/2403.13187)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+14. Editing Models with Task Arithmetic [[paper](https://arxiv.org/pdf/2212.04089)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+15. WARM: On the Benefits of Weight Averaged Reward Models [[paper](https://arxiv.org/pdf/2401.12187)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+16. Rewarded Soups: Towards Pareto-Optimal Alignment by Interpolating Weights Fine-Tuned on Diverse Rewards [[paper](https://arxiv.org/pdf/2306.04488)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+17. Arcee's MergeKit: A Toolkit for Merging Large Language Models [[paper](https://arxiv.org/pdf/2403.13257)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+18. TIES-Merging: Resolving Interference When Merging Models [[paper](https://arxiv.org/pdf/2306.01708)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+19. LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [[paper](https://arxiv.org/pdf/2307.13269)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+20. ZipIt! Merging Models from Different Tasks without Training [[paper](https://arxiv.org/pdf/2305.03053)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+21. Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization [[paper](https://arxiv.org/pdf/2212.10445)] [[slides](./Slides/LLM%20Merging%20Paper%20presentations.pdf)]
+22. Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries [[paper](https://aclanthology.org/2021.emnlp-main.47.pdf)]
+23. MOPO: Model-based Offline Policy Optimization [[paper](https://arxiv.org/pdf/2005.13239)] [[notes](./MOPO/MOPO%20Model%20based%20Offline%20Policy%20Optimization.html)]
+24. DETR: End-to-End Object Detection with Transformers [[paper](https://arxiv.org/pdf/2005.12872)] [[notes](./DETR/DETR:%20End-to-End%20Object%20Detection%20with%20Transformers.html)]
+25. Efficient Adaptation for End-to-End Vision-Based Robotic Manipulation [[paper](https://openreview.net/pdf?id=CVN5cZBFFFG)] [[notes](./Efficient%20adaption%20for%20end%20to%20end%20Vision%20Based%20Robotic%20Manipulation%20/Efficient%20adaption%20for%20end%20to%20end%20Vision%20Based%20Robotic%20Manipulation.html)]
+26. PipeDream: Generalized Pipeline Parallelism for DNN Training [[paper](https://arxiv.org/pdf/1806.03377)] [[notes](./PipeDream/PipeDream.html)]
+27. Lottery Ticket Hypothesis [[paper](https://arxiv.org/pdf/1803.03635)] [[notes](./LTH/Lottery%20Ticket%20Hypothesis%2072c1972c2b9547a1be108c45c99d9774.html)]
+28. Assessing the Ability of LSTMs to Learn Syntax-Sensitive Dependencies [[paper](https://arxiv.org/pdf/1611.01368)] [[notes](./Syntax%20and%20Structure%20in%20NLP/Syntax%20and%20Structure%20in%20NLP.html#assessing-the-ability-of-lstms-to-learn-syntax-sensitive-dependencies-tal-linzen-emmanuel-dupoux-yoav-goldberg)]
+29. Designing and Interpreting Probes with Control Tasks [[paper](https://arxiv.org/pdf/1909.03368)] [[notes](./Syntax%20and%20Structure%20in%20NLP/Syntax%20and%20Structure%20in%20NLP.html#designing-and-interpreting-probes-with-control-tasks-john-hewitt--percy-liang)]
+30. What Does BERT Learn about the Structure of Language? [[paper](https://arxiv.org/pdf/1906.04341)] [[notes](./Syntax%20and%20Structure%20in%20NLP/Syntax%20and%20Structure%20in%20NLP.html#what-does-bert-learn-about-the-structure-of-language-ganesh-jawahar-beno%C3%AEt-sagot-djam%C3%A9-seddah)]
+31. GNN [[notes](./GNN-1/Graph%20Neural%20Networks%2065e8b918487d47f9b54b48d11207c8c8.html)]
+32. Universal Adversarial Triggers [[paper](https://arxiv.org/pdf/1908.07125)] [[notes](./UAT/Adversarial-Machine-Learning.html)]
+33. Confidence-Aware Learning for Deep Neural Networks (CRL) [[paper](https://arxiv.org/pdf/2007.01458)] [[notes](./Confidence-Aware%20Learning/Confidence%20Aware%20Learning%20for%20Deep%20Neural%20Networks%205080dd3c7bff4d6bbd44632448b1de31.html)]
+34. A How-to-Model Guide for Neuroscience [[paper](https://www.eneuro.org/content/eneuro/7/1/ENEURO.0352-19.2019.full.pdf)] [[notes](./A%20How-to-Model%20Guide%20for%20Neuroscience/A%20How-to-Model%20Guide%20for%20Neuroscience.html)]
+35. Neural ODEs [[paper](https://arxiv.org/pdf/1806.07366)] [[notes](./Neural_ODEs/Neural_ODEs.html)]
+36. Model based Reinforcement Learning [[notes](./MBRL/Model%20Based%20Reinforcement%20Learning%207b98a25f0aa8434ca36d783dbbf60ec1.html)]
+37. Learning to describe scenes with programs [[paper](https://openreview.net/pdf?id=SyNPk2R9K7)] [[notes](./Scenes%20with%20Programs/LEARNING%20TO%20DESCRIBE%20SCENES%20WITH%20PROGRAMS.html)]
+38. DeepSynth: Automata Synthesis for Automatic Task Segmentation in RL [[paper](https://arxiv.org/pdf/1911.10244)] [[notes](./Automata%20Synthesis%20for%20RL/DeepSynth%20Automata%20Synthesis%20for%20Automatic%20Task%20Se%20956bdaa7e08c423aa97f319b469790d3.html)]
+39. Model free conventions in MARL with Heterogeneous Preferences [[paper](https://arxiv.org/pdf/2010.09054)] [[notes](./Model%20free%20conventions%20in%20MARL%20with%20Heterogeneous%20Preferences/Model%20free%20conventions%20in%20MARL%20with%20Heterogeneous%20Preferences.html)]
+40. Accelerating Reinforcement Learning with Learned Skill Priors [[paper](https://arxiv.org/pdf/2010.11944)] [[notes](./Accelerating%20Reinforcement%20Learning%20with%20Learned%20Skill%20Priors/Accelerating%20Reinforcement%20Learning%20with%20Learned%20S%2055f74821b841411e9b7695dd6cab9440.html)]
+41. Progressive Domain Adaptation for Object Detection [[paper](https://arxiv.org/pdf/1910.11319)] [[notes](./Progressive%20Domain%20Adaptation%20for%20Object%20Detection/Progressive%20Domain%20Adaptation%20for%20Object%20Detection%20478798eacb8b477e92629c95ae306a49.html)]
+42. Convolutional Networks with Adaptive inference Graphs [[paper](https://arxiv.org/pdf/1711.11503)] [[notes](./Convolutional%20Networks%20with%20Adaptive%20Inference%20Graph/Convolutional%20Networks%20with%20Adaptive%20Inference%20Gra%205c731fbfed5b4f93b6b49bc30f331d18.html)]
