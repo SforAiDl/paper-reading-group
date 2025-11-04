@@ -3,6 +3,9 @@
 Notes for papers presented during our paper reading sessions.
 
 ## Papers:
+1. Efficiently Modeling Long Sequences with Structured State Spaces [[paper](https://arxiv.org/pdf/2111.00396)] [[slides](./Slides/Deep%20State%20Space%20Models.pdf)]
+1. Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/pdf/2208.04933)] [[slides](./Slides/Deep%20State%20Space%20Models.pdf)]
+1. Mamba: Linear-Time Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/pdf/2312.00752)] [[slides](./Slides/Deep%20State%20Space%20Models.pdf)]
 1. Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers [[paper](https://arxiv.org/pdf/2305.18256)] [[slides](./Slides/Representation%20Learning%20on%20Hyper-Relational%20and%20Numeric%20Knowledge%20Graphs%20with%20Transformers.pdf)]
 1. Chemical-Reaction-Aware Molecule Representation Learning [[paper](https://arxiv.org/pdf/2109.09888)] [[slides](./Slides/CHEMICAL-REACTION-AWARE%20MOLECULE%20REPRESENTATION%20LEARNING.pdf)]
 1. Towards Foundation Models for Knowledge Graph Reasoning [[paper](https://arxiv.org/pdf/2310.04562)]
