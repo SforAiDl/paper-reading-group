@@ -31,7 +31,7 @@ Notes for papers presented during our paper reading sessions.
 3. Mitigating Memorisation in Diffusion Models [[paper](https://arxiv.org/pdf/2407.21720)]
 4. Interpreting CLIP's Image Representation via Text-Based Decomposition [[paper](https://arxiv.org/pdf/2310.05916)]
 5. Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion [[paper](https://arxiv.org/pdf/2308.12469)]
-6. Do Transformers Really Perform Bad for Graph Representation? (Graphormer) [[paper](https://arxiv.org/pdf/2106.05234)]
+6. Do Transformers Really Perform Bad for Graph Representation? (Graphormer) [[paper](https://arxiv.org/pdf/2106.05234)] [[slides](./Slides/Representation%20Learning%20on%20Hyper-Relational%20and%20Numeric%20Knowledge%20Graphs%20with%20Transformers.pdf)]
 7. Rank-N-Contrast [[paper](https://openreview.net/pdf?id=WHedsAeatp)] [[slides](./Slides/BI-LEVEL%20CONTRASTIVE%20LEARNING%20FOR%20KNOWL-%20EDGE%20ENHANCED%20MOLECULE%20REPRESENTATIONS.pdf)]
 8. EGRU [[paper](https://arxiv.org/pdf/2206.06178)]
 9. Deep Bidirectional Language-Knowledge Graph Pretraining (DRAGON) [[paper](https://arxiv.org/pdf/2210.09338)] [[slides](./Slides/PRE-TRAINING%20MOLECULAR%20GRAPH%20REPRESENTATION%20WITH%203D%20GEOMETRY.pdf)]
