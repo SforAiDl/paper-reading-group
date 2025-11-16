@@ -3,6 +3,7 @@
 Notes for papers presented during our paper reading sessions.
 
 ## Papers:
+1. Tuning Frequency Bias of State Space Models [[paper](https://openreview.net/forum?id=wkHcXDv7cv)] [[slides](./Slides/tuning_freq_bias.pdf)]
 1. Efficiently Modeling Long Sequences with Structured State Spaces [[paper](https://arxiv.org/pdf/2111.00396)] [[slides](./Slides/Deep%20State%20Space%20Models.pdf)]
 1. Simplified State Space Layers for Sequence Modeling [[paper](https://arxiv.org/pdf/2208.04933)] [[slides](./Slides/Deep%20State%20Space%20Models.pdf)]
 1. Mamba: Linear-Time Sequence Modeling with Selective State Spaces [[paper](https://arxiv.org/pdf/2312.00752)] [[slides](./Slides/Deep%20State%20Space%20Models.pdf)]
